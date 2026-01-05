@@ -1,4 +1,4 @@
-# BoardgameListingWebApp
+# Devops Game Project
 
 ## Description
 
@@ -54,4 +54,11 @@ This web application displays lists of board games and their reviews. While anyo
 
 ## Pipeline CI/CD
 <img width="1016" height="429" alt="Project" src="https://github.com/user-attachments/assets/da6493a2-d27f-45eb-b91e-617e73d4599c" />
+
+
+Each tool is deployed in an EC2 instance on AWS : 
+
+<img width="1374" height="364" alt="image" src="https://github.com/user-attachments/assets/978ebf0a-aaaa-4c54-be5b-6d231ceb5122" />
+
+
 
