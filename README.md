@@ -60,5 +60,8 @@ Each tool is deployed in an EC2 instance on AWS :
 
 <img width="1374" height="364" alt="image" src="https://github.com/user-attachments/assets/978ebf0a-aaaa-4c54-be5b-6d231ceb5122" />
 
+## Resources and Publications
+
+You can read my articles and publications on Medium: [Cloud DevOps Project](https://medium.com/cloud-devops-project)
 
 
